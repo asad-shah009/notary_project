@@ -1,0 +1,167 @@
+/*common start*/
+body{}
+/*common end*/
+/*header start*/
+header{
+    padding: 10px 0;
+}
+.c_nav{}
+.logo{}
+.menu{}
+.menu ul{}
+.menu ul li{}
+.menu ul li a{
+    font-size: 18px;
+    color: #747474 !important;
+}
+.menu ul li:last-child a{
+    padding-right: 0 !important;
+}
+.menu ul li a:hover {
+    color: #E996A8 !important;
+}
+/*header end*/
+/*banner start*/
+.banner{}
+.banner h1{
+    font-weight: 700;
+}
+.banner p{
+    font-size: 18px;
+}
+.b_pad{
+    margin: 200px 100px;
+}
+/*banner end*/
+/*work start*/
+.work{
+    margin: 75px 0;
+}
+.work h3{
+    font-weight: 700;
+}
+.work h6 {
+    padding: 0px 46px;
+}
+.work p{
+    padding: 0 225px;
+}
+/*work end*/
+
+/*learn start*/
+.learn h4{
+    padding-right: 40px;
+    font-weight: 700;
+}
+.learn p{
+    padding-right: 80px;
+}
+.video1 {
+    width: 480px;
+    height: 240px;
+}
+/*learn end*/
+
+/*Features start*/
+.features h3{
+    font-weight: 700;
+}
+.features h5{
+    font-weight: 700;
+}
+.features-text{}
+/*Features end*/
+
+/*button start*/
+.b_style{
+    color: #BC233F;
+    background-color: #FFFFFF;
+    border-color: #f8f9fa;
+}
+.b_style:hover {
+    background: #C1203F;
+    color: white;
+    transition: .3s;
+}
+
+/*button end*/
+
+/*Section start*/
+.f_notary{
+    margin-top: 30px;
+    padding: 50px 0;
+    background-color: #090909;
+    color: #57616D;
+}
+.f_notary h5{
+    font-weight: 700;
+    color: #BD233F;
+}
+.f_notary p{
+    /*color: white;*/
+}
+.f_notary ul{
+    margin: 0;
+    padding-left: 0;
+}
+.f_notary ul li{
+    /*color: white;*/
+}
+.f_notary ul li a{
+    /*color: white;*/
+    text-decoration: none;
+}
+.li_icon i{
+    margin-right: 10px;
+}
+.li_icon1{}
+.li_icon1 ul{}
+.li_icon1 ul li{}
+.li_icon1 ul li a{
+    color: #57616D;
+}
+.li_icon1 ul li a:hover {
+    /*background: #BD233D;*/
+    color: #BD233D;
+}
+.social-icon ul{}
+.social-icon ul li{
+    margin: 0 5px;
+    display: inline-block;
+}
+.social-icon ul li a{
+    margin-top: 30px;
+    background-color: #57616D;
+    font-size: 30px;
+    height: 35px;
+    width: 35px;
+    color: #222224;
+    text-align: center;
+    display: block;
+    line-height: 35px;
+    transition: .5s;
+}
+.social-icon ul li a:hover {
+    background: #C1203F;
+    color: white;
+    /*transform: rotateZ(360deg);*/
+}
+.f_edit{
+    padding-right: 0;
+}
+.f_edit2{
+    padding-left: 0;
+}
+/*Section end*/
+
+/*footer start*/
+footer{
+    padding: 25px 0;
+    background-color: #535D69;
+}
+.f_color{
+    color: white;
+}
+/*footer end*/
+
+

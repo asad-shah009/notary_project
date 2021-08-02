@@ -1,0 +1,170 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header start*/
+	.menu ul li a {
+		padding: 5px 0 0 !important;
+		text-align: center;
+		font-size: 16px;
+	}
+	/*header end*/
+	/*banner start*/
+	.banner h1 {
+    font-size: 16px;
+	}
+	.banner p {
+	margin-bottom: 0;	
+    font-size: 14px;
+	}
+	.b_pad {
+    margin: 0;
+	}
+	.b_btn{
+		line-height: 1rem;
+		font-size: 14px;
+	}
+	.b_pad2{
+		text-align: center;
+	}
+	/*banner start	*/
+	/*work start*/
+	.work p {
+    padding: 0px;
+	}
+	/*work end*/
+	/*learn start*/
+	.learn h4{
+    padding-right: 0;
+	}
+	.learn p{
+    padding-right: 0;
+	}
+	.video1 {
+    width: 280px;
+    height: 180px;
+	}
+	/*learn end*/
+	/*section start*/
+	.f_m{
+		margin-top: 15px;
+	}
+	/*section end*/
+	}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.menu ul li a {
+		padding: 5px 0 0 !important;
+		text-align: center;
+		font-size: 16px;	
+	}
+	/*header end*/
+	/*banner start*/
+	.b_pad {
+    margin: 30px 100px;
+	}
+	/*banner start	*/
+	/*work start*/
+	.work h6 {
+    padding: 0;
+	}
+	.work p {
+    padding: 0 75px;
+	}	
+	/*work end*/
+	/*learn start*/
+	.learn h4{
+    padding-right: 0;
+    font-size: 17px;
+	}
+	.learn p{
+    padding-right: 0;
+    font-size: 14px;
+	}
+	.video1 {
+    width: 320px;
+    height: 180px;
+	}
+	/*learn end*/
+	/*feature start*/
+	.features-text p{
+		padding: 0;
+		margin: 0;
+		font-size: 14px;
+	}
+	.features-text2 h5{
+		margin-bottom: 31px;
+	}
+	/*features end*/
+	/*section start*/
+	.f_m{
+		margin-top: 15px;
+	}
+	/*section end*/
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+	.menu ul li a {
+		padding: 5px 0 0 !important;
+		text-align: center;
+	}
+	/*header end*/
+	/*banner start*/
+	.b_pad {
+    margin: 30px 100px;
+	}
+	/*banner start	*/
+	/*work start*/
+	.work h6 {
+    padding: 0px 20px;
+	}
+	.work p {
+    padding: 0 80px;
+	}
+	/*work end*/
+	/*learn start*/
+	.learn h4{
+    padding-right: 0;
+	}
+	.learn p{
+    padding-right: 0;
+	}
+	.video1 {
+    width: 320px;
+    height: 180px;
+	}
+	/*learn end*/
+	/*feature start*/
+	.features-text h5{
+		margin: 0;
+		padding: 0;
+		font-size: 24px;
+	}
+	.features-text2 h5{
+		margin-bottom: 29px;
+	}
+	/*feature end*/
+	.social-icon ul li{
+		margin: 0;
+	}
+	/*section strat*/
+	.f_edit2 {
+		margin: 0;
+    	padding-left: 8px;
+	}
+	/*section end*/
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	
+}
+ /*X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+ /*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	
+}
